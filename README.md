@@ -1,1 +1,1 @@
-## Desktop Midi Editor for the MC6 MKII
+## Desktop Midi Editor for Morningstar Engineering Midi Controllers
